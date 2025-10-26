@@ -1,1 +1,4 @@
-requir
+pandas
+streamlit
+rapidfuzz
+scipy

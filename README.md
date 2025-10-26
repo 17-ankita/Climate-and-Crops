@@ -8,11 +8,6 @@ Correlate crop production and rainfall trends
 Display data source/provenance
 
 Quick Start - 
-
-Clone the repo:
-git clone https://github.com/17-ankita/Climate-and-Crops.git
-cd Climate-and-Crops
-
 Install dependencies:
 pip install -r requirements.txt
 

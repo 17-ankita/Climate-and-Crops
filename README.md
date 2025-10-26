@@ -5,5 +5,6 @@ A Streamlit prototype that analyzes crop production and rainfall across Indian s
 ## How to Run
 1. Clone the repo
 2. Install dependencies: pip install -r requirements.txt
-3. Run the app: https://share.streamlit.io/17-ankita/Climate-and-Crops/main/app.py
+3. Run the app: streamlit run app.py
+
 

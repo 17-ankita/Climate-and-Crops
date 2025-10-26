@@ -1,10 +1,27 @@
-# Climate-and-Crops
-Agriculture &amp; Climate Q&amp;A: A Streamlit prototype that analyzes crop production and rainfall across Indian states. Compare top crops, average rainfall, and explore climate-agriculture trends using sample datasets.
-# Climate & Crops Q&A
-A Streamlit prototype that analyzes crop production and rainfall across Indian states.
-## How to Run
-1. Clone the repo
-2. Install dependencies: pip install -r requirements.txt
-3. Run the app: https://climate-and-crops-tardvxtlkzkmfaxmjwopkr.streamlit.app/
+Climate & Crops Q&A 🌾☔
+Explore the relationship between crop production and rainfall across Indian states with this interactive Streamlit app. Ask questions like “Compare rainfall in Karnataka and Maharashtra for last 5 years and list top 3 crops” and get instant results!
 
+Features :
+Compare average annual rainfall between state
+Show top crops by production for selected states and years
+Correlate crop production and rainfall trends
+Display data source/provenance
 
+Quick Start - 
+
+Clone the repo:
+git clone https://github.com/17-ankita/Climate-and-Crops.git
+cd Climate-and-Crops
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the app locally:
+streamlit run app.py
+
+Sample Data:
+sample.csv includes random crop and rainfall data for all Indian states
+Columns: State, District, Crop, Year, Production (tonnes), Rainfall (mm)
+
+Live Demo:
+Access the app online: https://climate-and-crops-tardvxtlkzkmfaxmjwopkr.streamlit.app/

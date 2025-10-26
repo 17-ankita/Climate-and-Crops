@@ -1,0 +1,281 @@
+State,District,Crop,Year,Production,Rainfall_mm
+Andhra Pradesh,District_1,Rice,2022,5200,1200
+Andhra Pradesh,District_2,Wheat,2022,4300,1100
+Andhra Pradesh,District_3,Maize,2022,5000,1150
+Andhra Pradesh,District_4,Sugarcane,2022,4800,1250
+Andhra Pradesh,District_5,Pulses,2022,4700,1180
+Andhra Pradesh,District_1,Cotton,2022,5100,1220
+Andhra Pradesh,District_2,Rice,2022,5300,1190
+Andhra Pradesh,District_3,Wheat,2022,4500,1170
+Andhra Pradesh,District_4,Maize,2022,4950,1210
+Andhra Pradesh,District_5,Sugarcane,2022,5050,1230
+Arunachal Pradesh,District_1,Rice,2022,4000,2000
+Arunachal Pradesh,District_2,Wheat,2022,3900,1950
+Arunachal Pradesh,District_3,Maize,2022,4200,1980
+Arunachal Pradesh,District_4,Sugarcane,2022,4100,2020
+Arunachal Pradesh,District_5,Pulses,2022,4300,1990
+Arunachal Pradesh,District_1,Cotton,2022,3950,1960
+Arunachal Pradesh,District_2,Rice,2022,4050,2005
+Arunachal Pradesh,District_3,Wheat,2022,4000,1975
+Arunachal Pradesh,District_4,Maize,2022,4150,1995
+Arunachal Pradesh,District_5,Sugarcane,2022,4250,2010
+Assam,District_1,Rice,2022,5000,1800
+Assam,District_2,Wheat,2022,4800,1750
+Assam,District_3,Maize,2022,4900,1780
+Assam,District_4,Sugarcane,2022,4950,1760
+Assam,District_5,Pulses,2022,4850,1790
+Assam,District_1,Cotton,2022,4700,1805
+Assam,District_2,Rice,2022,5000,1820
+Assam,District_3,Wheat,2022,4750,1775
+Assam,District_4,Maize,2022,4850,1795
+Assam,District_5,Sugarcane,2022,4900,1810
+Bihar,District_1,Rice,2022,5200,950
+Bihar,District_2,Wheat,2022,5000,980
+Bihar,District_3,Maize,2022,5100,970
+Bihar,District_4,Sugarcane,2022,5050,960
+Bihar,District_5,Pulses,2022,4950,945
+Bihar,District_1,Cotton,2022,4850,955
+Bihar,District_2,Rice,2022,5000,960
+Bihar,District_3,Wheat,2022,5050,970
+Bihar,District_4,Maize,2022,4950,950
+Bihar,District_5,Sugarcane,2022,5000,965
+Chhattisgarh,District_1,Rice,2022,4800,1100
+Chhattisgarh,District_2,Wheat,2022,4700,1080
+Chhattisgarh,District_3,Maize,2022,4850,1090
+Chhattisgarh,District_4,Sugarcane,2022,4900,1110
+Chhattisgarh,District_5,Pulses,2022,4750,1075
+Chhattisgarh,District_1,Cotton,2022,4800,1095
+Chhattisgarh,District_2,Rice,2022,4850,1105
+Chhattisgarh,District_3,Wheat,2022,4750,1085
+Chhattisgarh,District_4,Maize,2022,4900,1115
+Chhattisgarh,District_5,Sugarcane,2022,4950,1120
+Goa,District_1,Rice,2022,3000,2200
+Goa,District_2,Wheat,2022,2900,2100
+Goa,District_3,Maize,2022,3050,2150
+Goa,District_4,Sugarcane,2022,3100,2250
+Goa,District_5,Pulses,2022,2950,2180
+Goa,District_1,Cotton,2022,3000,2210
+Goa,District_2,Rice,2022,3050,2190
+Goa,District_3,Wheat,2022,2900,2175
+Goa,District_4,Maize,2022,3100,2230
+Goa,District_5,Sugarcane,2022,3150,2245
+Gujarat,District_1,Rice,2022,6000,850
+Gujarat,District_2,Wheat,2022,5900,870
+Gujarat,District_3,Maize,2022,6050,860
+Gujarat,District_4,Sugarcane,2022,6100,880
+Gujarat,District_5,Pulses,2022,5950,865
+Gujarat,District_1,Cotton,2022,6000,870
+Gujarat,District_2,Rice,2022,6050,875
+Gujarat,District_3,Wheat,2022,5900,860
+Gujarat,District_4,Maize,2022,6100,885
+Gujarat,District_5,Sugarcane,2022,6150,890
+Haryana,District_1,Rice,2022,4800,900
+Haryana,District_2,Wheat,2022,4700,920
+Haryana,District_3,Maize,2022,4850,910
+Haryana,District_4,Sugarcane,2022,4900,930
+Haryana,District_5,Pulses,2022,4750,915
+Haryana,District_1,Cotton,2022,4800,925
+Haryana,District_2,Rice,2022,4850,910
+Haryana,District_3,Wheat,2022,4750,920
+Haryana,District_4,Maize,2022,4900,935
+Haryana,District_5,Sugarcane,2022,4950,940
+Himachal Pradesh,District_1,Rice,2022,3500,1200
+Himachal Pradesh,District_2,Wheat,2022,3400,1180
+Himachal Pradesh,District_3,Maize,2022,3550,1190
+Himachal Pradesh,District_4,Sugarcane,2022,3600,1210
+Himachal Pradesh,District_5,Pulses,2022,3450,1175
+Himachal Pradesh,District_1,Cotton,2022,3500,1195
+Himachal Pradesh,District_2,Rice,2022,3550,1185
+Himachal Pradesh,District_3,Wheat,2022,3450,1175
+Himachal Pradesh,District_4,Maize,2022,3600,1205
+Himachal Pradesh,District_5,Sugarcane,2022,3650,1215
+Jharkhand,District_1,Rice,2022,4200,1100
+Jharkhand,District_2,Wheat,2022,4100,1080
+Jharkhand,District_3,Maize,2022,4250,1090
+Jharkhand,District_4,Sugarcane,2022,4300,1110
+Jharkhand,District_5,Pulses,2022,4150,1075
+Jharkhand,District_1,Cotton,2022,4200,1095
+Jharkhand,District_2,Rice,2022,4250,1105
+Jharkhand,District_3,Wheat,2022,4150,1085
+Jharkhand,District_4,Maize,2022,4300,1115
+Jharkhand,District_5,Sugarcane,2022,4350,1120
+Karnataka,District_1,Rice,2022,5200,1100
+Karnataka,District_2,Wheat,2022,5100,1080
+Karnataka,District_3,Maize,2022,5250,1090
+Karnataka,District_4,Sugarcane,2022,5300,1110
+Karnataka,District_5,Pulses,2022,5150,1075
+Karnataka,District_1,Cotton,2022,5200,1095
+Karnataka,District_2,Rice,2022,5250,1105
+Karnataka,District_3,Wheat,2022,5150,1085
+Karnataka,District_4,Maize,2022,5300,1115
+Karnataka,District_5,Sugarcane,2022,5350,1120
+Kerala,District_1,Rice,2022,4000,2800
+Kerala,District_2,Wheat,2022,3900,2750
+Kerala,District_3,Maize,2022,4050,2780
+Kerala,District_4,Sugarcane,2022,4100,2760
+Kerala,District_5,Pulses,2022,3950,2790
+Kerala,District_1,Cotton,2022,4000,2805
+Kerala,District_2,Rice,2022,4050,2795
+Kerala,District_3,Wheat,2022,3950,2785
+Kerala,District_4,Maize,2022,4100,2810
+Kerala,District_5,Sugarcane,2022,4150,2820
+Madhya Pradesh,District_1,Rice,2022,5800,950
+Madhya Pradesh,District_2,Wheat,2022,5700,930
+Madhya Pradesh,District_3,Maize,2022,5850,940
+Madhya Pradesh,District_4,Sugarcane,2022,5900,960
+Madhya Pradesh,District_5,Pulses,2022,5750,925
+Madhya Pradesh,District_1,Cotton,2022,5800,945
+Madhya Pradesh,District_2,Rice,2022,5850,955
+Madhya Pradesh,District_3,Wheat,2022,5750,935
+Madhya Pradesh,District_4,Maize,2022,5900,965
+Madhya Pradesh,District_5,Sugarcane,2022,5950,970
+Maharashtra,District_1,Rice,2022,6200,900
+Maharashtra,District_2,Wheat,2022,6100,880
+Maharashtra,District_3,Maize,2022,6250,890
+Maharashtra,District_4,Sugarcane,2022,6300,910
+Maharashtra,District_5,Pulses,2022,6150,875
+Maharashtra,District_1,Cotton,2022,6200,895
+Maharashtra,District_2,Rice,2022,6250,905
+Maharashtra,District_3,Wheat,2022,6150,885
+Maharashtra,District_4,Maize,2022,6300,915
+Maharashtra,District_5,Sugarcane,2022,6350,920
+Manipur,District_1,Rice,2022,3000,1800
+Manipur,District_2,Wheat,2022,2900,1750
+Manipur,District_3,Maize,2022,3050,1780
+Manipur,District_4,Sugarcane,2022,3100,1760
+Manipur,District_5,Pulses,2022,2950,1790
+Manipur,District_1,Cotton,2022,3000,1805
+Manipur,District_2,Rice,2022,3050,1820
+Manipur,District_3,Wheat,2022,2900,1775
+Manipur,District_4,Maize,2022,3100,1795
+Manipur,District_5,Sugarcane,2022,3150,1810
+Meghalaya,District_1,Rice,2022,4000,2500
+Meghalaya,District_2,Wheat,2022,3900,2450
+Meghalaya,District_3,Maize,2022,4050,2480
+Meghalaya,District_4,Sugarcane,2022,4100,2460
+Meghalaya,District_5,Pulses,2022,3950,2490
+Meghalaya,District_1,Cotton,2022,4000,2505
+Meghalaya,District_2,Rice,2022,4050,2495
+Meghalaya,District_3,Wheat,2022,3950,2485
+Meghalaya,District_4,Maize,2022,4100,2510
+Meghalaya,District_5,Sugarcane,2022,4150,2520
+Mizoram,District_1,Rice,2022,3000,2000
+Mizoram,District_2,Wheat,2022,2900,1980
+Mizoram,District_3,Maize,2022,3050,1995
+Mizoram,District_4,Sugarcane,2022,3100,2010
+Mizoram,District_5,Pulses,2022,2950,2005
+Mizoram,District_1,Cotton,2022,3000,2015
+Mizoram,District_2,Rice,2022,3050,2000
+Mizoram,District_3,Wheat,2022,2900,1985
+Mizoram,District_4,Maize,2022,3100,2010
+Mizoram,District_5,Sugarcane,2022,3150,2020
+Nagaland,District_1,Rice,2022,3200,2100
+Nagaland,District_2,Wheat,2022,3100,2080
+Nagaland,District_3,Maize,2022,3250,2090
+Nagaland,District_4,Sugarcane,2022,3300,2110
+Nagaland,District_5,Pulses,2022,3150,2075
+Nagaland,District_1,Cotton,2022,3200,2095
+Nagaland,District_2,Rice,2022,3250,2105
+Nagaland,District_3,Wheat,2022,3150,2085
+Nagaland,District_4,Maize,2022,3300,2115
+Nagaland,District_5,Sugarcane,2022,3350,2120
+Odisha,District_1,Rice,2022,5000,1300
+Odisha,District_2,Wheat,2022,4900,1280
+Odisha,District_3,Maize,2022,5050,1290
+Odisha,District_4,Sugarcane,2022,5100,1310
+Odisha,District_5,Pulses,2022,4950,1275
+Odisha,District_1,Cotton,2022,5000,1295
+Odisha,District_2,Rice,2022,5050,1305
+Odisha,District_3,Wheat,2022,4950,1285
+Odisha,District_4,Maize,2022,5100,1315
+Odisha,District_5,Sugarcane,2022,5150,1320
+Punjab,District_1,Rice,2022,5200,850
+Punjab,District_2,Wheat,2022,5100,830
+Punjab,District_3,Maize,2022,5250,840
+Punjab,District_4,Sugarcane,2022,5300,860
+Punjab,District_5,Pulses,2022,5150,825
+Punjab,District_1,Cotton,2022,5200,845
+Punjab,District_2,Rice,2022,5250,855
+Punjab,District_3,Wheat,2022,5150,835
+Punjab,District_4,Maize,2022,5300,865
+Punjab,District_5,Sugarcane,2022,5350,870
+Rajasthan,District_1,Rice,2022,6000,500
+Rajasthan,District_2,Wheat,2022,5900,480
+Rajasthan,District_3,Maize,2022,6050,490
+Rajasthan,District_4,Sugarcane,2022,6100,510
+Rajasthan,District_5,Pulses,2022,5950,485
+Rajasthan,District_1,Cotton,2022,6000,505
+Rajasthan,District_2,Rice,2022,6050,515
+Rajasthan,District_3,Wheat,2022,5950,495
+Rajasthan,District_4,Maize,2022,6100,515
+Rajasthan,District_5,Sugarcane,2022,6150,520
+Sikkim,District_1,Rice,2022,2500,2200
+Sikkim,District_2,Wheat,2022,2400,2180
+Sikkim,District_3,Maize,2022,2550,2190
+Sikkim,District_4,Sugarcane,2022,2600,2210
+Sikkim,District_5,Pulses,2022,2450,2175
+Sikkim,District_1,Cotton,2022,2500,2195
+Sikkim,District_2,Rice,2022,2550,2205
+Sikkim,District_3,Wheat,2022,2450,2185
+Sikkim,District_4,Maize,2022,2600,2215
+Sikkim,District_5,Sugarcane,2022,2650,2220
+Tamil Nadu,District_1,Rice,2022,5300,900
+Tamil Nadu,District_2,Wheat,2022,5200,880
+Tamil Nadu,District_3,Maize,2022,5350,890
+Tamil Nadu,District_4,Sugarcane,2022,5400,910
+Tamil Nadu,District_5,Pulses,2022,5250,875
+Tamil Nadu,District_1,Cotton,2022,5300,895
+Tamil Nadu,District_2,Rice,2022,5350,905
+Tamil Nadu,District_3,Wheat,2022,5250,885
+Tamil Nadu,District_4,Maize,2022,5400,915
+Tamil Nadu,District_5,Sugarcane,2022,5450,920
+Telangana,District_1,Rice,2022,5100,1000
+Telangana,District_2,Wheat,2022,5000,980
+Telangana,District_3,Maize,2022,5150,990
+Telangana,District_4,Sugarcane,2022,5200,1010
+Telangana,District_5,Pulses,2022,5050,975
+Telangana,District_1,Cotton,2022,5100,995
+Telangana,District_2,Rice,2022,5150,1005
+Telangana,District_3,Wheat,2022,5050,985
+Telangana,District_4,Maize,2022,5200,1015
+Telangana,District_5,Sugarcane,2022,5250,1020
+Tripura,District_1,Rice,2022,3000,1800
+Tripura,District_2,Wheat,2022,2900,1750
+Tripura,District_3,Maize,2022,3050,1780
+Tripura,District_4,Sugarcane,2022,3100,1760
+Tripura,District_5,Pulses,2022,2950,1790
+Tripura,District_1,Cotton,2022,3000,1805
+Tripura,District_2,Rice,2022,3050,1820
+Tripura,District_3,Wheat,2022,2900,1775
+Tripura,District_4,Maize,2022,3100,1795
+Tripura,District_5,Sugarcane,2022,3150,1810
+Uttar Pradesh,District_1,Rice,2022,6000,900
+Uttar Pradesh,District_2,Wheat,2022,5900,880
+Uttar Pradesh,District_3,Maize,2022,6050,890
+Uttar Pradesh,District_4,Sugarcane,2022,6100,910
+Uttar Pradesh,District_5,Pulses,2022,5950,875
+Uttar Pradesh,District_1,Cotton,2022,6000,895
+Uttar Pradesh,District_2,Rice,2022,6050,905
+Uttar Pradesh,District_3,Wheat,2022,5950,885
+Uttar Pradesh,District_4,Maize,2022,6100,915
+Uttar Pradesh,District_5,Sugarcane,2022,6150,920
+Uttarakhand,District_1,Rice,2022,3500,1200
+Uttarakhand,District_2,Wheat,2022,3400,1180
+Uttarakhand,District_3,Maize,2022,3550,1190
+Uttarakhand,District_4,Sugarcane,2022,3600,1210
+Uttarakhand,District_5,Pulses,2022,3450,1175
+Uttarakhand,District_1,Cotton,2022,3500,1195
+Uttarakhand,District_2,Rice,2022,3550,1185
+Uttarakhand,District_3,Wheat,2022,3450,1175
+Uttarakhand,District_4,Maize,2022,3600,1205
+Uttarakhand,District_5,Sugarcane,2022,3650,1215
+West Bengal,District_1,Rice,2022,5000,1500
+West Bengal,District_2,Wheat,2022,4900,1480
+West Bengal,District_3,Maize,2022,5050,1490
+West Bengal,District_4,Sugarcane,2022,5100,1510
+West Bengal,District_5,Pulses,2022,4950,1475
+West Bengal,District_1,Cotton,2022,5000,1495
+West Bengal,District_2,Rice,2022,5050,1505
+West Bengal,District_3,Wheat,2022,4950,1485
+West Bengal,District_4,Maize,2022,5100,1515
+West Bengal,District_5,Sugarcane,2022,5150,1520
